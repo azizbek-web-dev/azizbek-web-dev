@@ -1,8 +1,3 @@
-<!-- 🔥 Banner yoki GIF (o'zingiz xohlagan rasm URL qo'yishingiz mumkin) -->
-<p align="center">
-  <img src="https://i.imgur.com/5RHR6Ku.png" alt="Welcome Banner" />
-</p>
-
 <h1 align="center">👋 Hi, I'm Azizbek</h1>
 <h3 align="center">🚀 Web Developer | 💻 Backend Engineer (PHP/Laravel)</h3>
 
