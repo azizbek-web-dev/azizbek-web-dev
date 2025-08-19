@@ -2,13 +2,13 @@
 <h3 align="center">🚀 Web Developer | 💻 Backend Engineer (PHP/Laravel)</h3>
 
 <p align="center">
-  🌱 Currently focusing on building scalable REST APIs and modern web applications <br>
-  ⚡ Passionate about clean code, database design, and backend logic
+  Currently focusing on building scalable REST APIs and modern web applications <br>
+  Passionate about clean code, database design, and backend logic
 </p>
 
 ---
 
-## ⚡ Skills
+## Skills
 
 ### 🌐 Frontend
 <p align="center">
