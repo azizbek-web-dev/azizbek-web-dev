@@ -39,16 +39,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
----
-
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azizbek-web-dev&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=azizbek-web-dev&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</p>
 
 ---
 
